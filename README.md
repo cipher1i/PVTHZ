@@ -1,4 +1,4 @@
 status: complete
 <br/><br/>
 # Pathz
-Basic console game application just cause...
+Users incorporate strategies to get to the end of each level.
