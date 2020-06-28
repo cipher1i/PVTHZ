@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BigConsole">
+      <HintPath>..\..\..\1. Class Libraries\Git\BigConsole\BigConsole.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
