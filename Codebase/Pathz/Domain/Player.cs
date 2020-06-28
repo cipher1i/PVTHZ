@@ -10,7 +10,7 @@ namespace Domain
         /// For testing methods/functions that require input.
         /// </summary>
         /// <remarks>
-        /// Private key is to ensure only the testing team has permission to handle these types of functions.
+        /// Private key is to ensure only QA has permission to handle these types of functions.
         /// </remarks>
         /// <param name="private_key"></param>
         /// <returns><see cref="bool"/></returns>
