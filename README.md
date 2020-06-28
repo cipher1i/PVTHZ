@@ -1,4 +1,4 @@
 status: complete
 <br/><br/>
-# Pathz
+# PVTHZ
 Users incorporate strategies to get to the end of each level.
