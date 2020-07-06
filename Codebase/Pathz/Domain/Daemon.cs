@@ -65,7 +65,7 @@ namespace Domain
             //Randomized strength - assign 1+
             //Randomized wisdom - assign  1+
             //1. Generate Names dictionary
-            //2. Generate Linguistics engine for more suitable name generation. (APIs are against standards for this project. Everything from scratch.)
+            //2. Generate Linguistics engine for more suitable name generation. (3p APIs are against standards for this project. Everything from scratch.)
             return;
         }
         */
