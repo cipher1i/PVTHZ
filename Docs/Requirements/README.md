@@ -1,1 +1,1 @@
-Just realized there is a typo in Functional Requirements.  Will correct when time permits.
+Just realized there is a typo in Functional Requirements.  Correct when time permits.
